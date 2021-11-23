@@ -27,8 +27,8 @@
     "node-html-parser": "^3.3.5"
   },
   "peerDependencies": {
-    "@react-pdf/renderer": ">2",
-    "react": ">16"
+    "@react-pdf/renderer": "^2.0.0",
+    "react": "^16.0.0"
   },
   "devDependencies": {
     "@react-pdf/renderer": "^2.0.18",
